@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wanusa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="easy">EASY</string>
+    <string name="normal">NORMAL</string>
+    <string name="hard">HARD</string>
+    <string name="sejarah_indonesia">Sejarah_Indonesia</string>
+    <string name="ragam_indonesia">Ragam_Indonesia</string>
+</resources>

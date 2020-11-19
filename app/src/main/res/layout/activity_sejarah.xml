@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ECE5D9"
+    tools:context="com.example.wanusa.MainActivity">
+
+
+    <ImageView
+        android:id="@+id/img_sejarah"
+        android:layout_width="350dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:src="@drawable/level_sejarah"/>
+    <Button
+        android:id="@+id/btn_easy_sjr"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:background="#E2AF6D"
+        android:textColor="#FFFFFF"
+        android:text="@string/easy"/>
+    <Button
+        android:id="@+id/btn_normal_sjr"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:background="#E2AF6D"
+        android:textColor="#FFFFFF"
+        android:text="@string/normal"/>
+    <Button
+        android:id="@+id/btn_hard_sjr"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:background="#E2AF6D"
+        android:textColor="#FFFFFF"
+        android:text="@string/hard"/>
+
+
+</LinearLayout>
