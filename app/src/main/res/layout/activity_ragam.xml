@@ -5,7 +5,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F0FFF0"
+    android:background="@drawable/background"
     tools:context="com.example.wanusa.MainActivity">
     
 
@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginBottom="16dp"
-        android:background="#F0E68C"
+        android:background="#EF6B41"
         android:text="@string/easy"/>
     <Button
         android:id="@+id/btn_normal_rgm"
@@ -31,7 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginBottom="16dp"
-        android:background="#87CEEB"
+        android:background="#EF6B41"
         android:text="@string/normal"/>
     <Button
         android:id="@+id/btn_hard_rgm"
@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginBottom="16dp"
-        android:background="#CD5C5C"
+        android:background="#EF6B41"
         android:text="@string/hard"/>
 
 

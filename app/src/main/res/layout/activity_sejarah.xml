@@ -5,7 +5,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#ECE5D9"
+    android:background="@drawable/background"
     tools:context="com.example.wanusa.MainActivity">
 
 
@@ -16,14 +16,14 @@
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
         android:layout_marginBottom="30dp"
-        android:src="@drawable/level_sejarah"/>
+        android:src="@drawable/sejarah2"/>
     <Button
         android:id="@+id/btn_easy_sjr"
         android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginBottom="16dp"
-        android:background="#E2AF6D"
+        android:background="#EF6B41"
         android:textColor="#FFFFFF"
         android:text="@string/easy"/>
     <Button
@@ -32,7 +32,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginBottom="16dp"
-        android:background="#E2AF6D"
+        android:background="#EF6B41"
         android:textColor="#FFFFFF"
         android:text="@string/normal"/>
     <Button
@@ -41,7 +41,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginBottom="16dp"
-        android:background="#E2AF6D"
+        android:background="#EF6B41"
         android:textColor="#FFFFFF"
         android:text="@string/hard"/>
 
