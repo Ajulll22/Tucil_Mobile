@@ -7,11 +7,35 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="orange">#FFA500 </color>
     <color name="green">#00FF00</color>
-    <color name="colorAccent">#FF5722</color>
     <color name="ragam">#ECE5D9</color>
     <color name="coklat2">#CA8014</color>
     <color name="score">#48d1e9</color>
     <color name="btnscore">#e0f7fb</color>
+
+    <color name="colorPrimary">#ffffc74e</color>
+    <color name="colorPrimaryDark">#ffe5a53a</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="purple">#EF6B41</color>
+    <color name="teal">#EF6B41</color>
+    <color name="cyan">#EF6B41</color>
+    <color name="orange">#EF6B41</color>
+    <color name="pink">#EF6B41</color>
+    <color name="lightgreen">#EF6B41</color>
+
+    <array name="colors">
+        <item>@color/purple</item>
+        <item>@color/teal</item>
+        <item>@color/cyan</item>
+        <item>@color/orange</item>
+        <item>@color/pink</item>
+        <item>@color/lightgreen</item>
+    </array>
+
+    <color name="transparent_green">#7700ff00</color>
+    <color name="transparent_red">#77ff0000</color>
+    <color name="transparent_grey">#77cccccc</color>
+    <color name="transparent_black">#55000000</color>
+    <color name="transparent_white">#00FFFFFF</color>
 </resources>
